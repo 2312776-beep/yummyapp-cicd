@@ -12,7 +12,7 @@ OK
 Name                Stmts   Miss  Cover   Missing
 -------------------------------------------------
 gps_service.py          4      1    75%   11
-test_yummy_app.py      50      1    98%   91
+test_yummy_app.py      50      1    98%   81
 yummy_app.py           30      1    97%   37
 -------------------------------------------------
 TOTAL                  84      3    96%
