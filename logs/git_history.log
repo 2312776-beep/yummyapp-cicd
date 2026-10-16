@@ -1,0 +1,6 @@
+﻿* 5d5608f - 2312776 - BNToan (Fri Oct 16 14:39:41 2026 +0700): Fix syntax error, restore green build
+* b155d73 - 2312776 - BNToan (Fri Oct 16 14:37:36 2026 +0700): Intentionally break the build (syntax error)
+* 947f3f2 - 2312776 - BNToan (Fri Oct 16 14:28:53 2026 +0700): Add mocking tests for promo code and GPS
+* ed6bace - 2312776 - BNToan (Fri Oct 16 14:13:15 2026 +0700): Add linter and 80% coverage quality gate
+* 9149642 - 2312776 - BNToan (Fri Oct 16 14:03:05 2026 +0700): Simplify CI to basic 4-step workflow
+* 5cc531c - 2312776 - BNToan (Fri Oct 16 13:58:05 2026 +0700): Initial commit: project skeleton and basic tests
